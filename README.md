@@ -5,7 +5,7 @@
 
 **Yaoundé, Cameroon** · AfricTivistes CitizenLab Cameroon
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/𝐏𝐚𝐧𝐭𝐨𝐮𝐢𝐧-𝐀𝐝𝐣𝐢𝐧𝐬𝐚𝐥𝐚-2b1429207)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pantouin-adjinsala-2b1429207)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/P-Adjinsala)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pantouinadjinsala@gmail.com)
 
