@@ -31,7 +31,7 @@ Five open-source projects applying AI and data science to real civic challenges 
 
 ---
 
-### 🛡️ [[misinformation-detection-africa](https://github.com/P-Adjinsala/misinformation-detection-africa)
+### 🛡️ [misinformation-detection-africa](https://github.com/P-Adjinsala/misinformation-detection-africa)
 **NLP pipeline for information integrity monitoring**
 
 TF-IDF + Logistic Regression classifier trained on the LIAR benchmark dataset, framed around African civic contexts and the limits of automated misinformation detection. Includes ROC-AUC evaluation, top feature interpretability charts, and a roadmap for multilingual extension (French, Camfranglais).
