@@ -103,9 +103,9 @@ Full-stack web application — professional landing page + interactive dashboard
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=P-Adjinsala&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Pantouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Adjinsala&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Adjinsala&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Adjinsala&layout=compact&theme=radical)
 
 </div>
 
