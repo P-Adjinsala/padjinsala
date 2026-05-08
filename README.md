@@ -103,11 +103,14 @@ Full-stack web application — professional landing page + interactive dashboard
 
 <div align="center">
 
-![Pantouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Adjinsala&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=P-Adjinsala&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Adjinsala&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Adjinsala&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
+
+![Profile Views](https://komarev.com/ghpvc/?username=P-Adjinsala&color=blueviolet&style=flat)
 
 </div>
+
 
 ---
 
